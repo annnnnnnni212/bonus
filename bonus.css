@@ -1,0 +1,20 @@
+.floated {background-color: LightGrey; 
+		font-size:1.5em;
+		font-family: arial;
+		padding: .2em
+		margin-left: .5em;
+		margin-bottom: .5em
+		float: left
+		text-align: right}
+.padding {padding-top: 5%;
+		padding-right: 5%;
+		padding-bottom: 5%;
+		padding-left: 5%}
+.padding{padding: 5% 5% 5% 5%}
+
+.margin-left {border: 1% solid black; 
+			margin-top: 5%; 
+			margin-bottom: 5%;
+			margin-right: 5%;
+			margin-left: 5%;
+			background-color: lightcoral;}
